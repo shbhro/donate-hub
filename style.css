@@ -1,0 +1,216 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.hero {
+    text-align: center;
+    background-image: url(images/Untitled-1.png);
+    background-repeat: no-repeat;
+    margin-top: 0;
+    background-size: cover;
+    height: 800px;
+}
+
+.heroHeader h1 {
+    font-size: 60px;
+    color: aqua;
+    padding-top: 130px;
+}
+
+.heroHeader p {
+    font-size: 25px;
+    color: aqua;
+    padding-bottom: 10px;
+}
+
+.heroHeader {
+    padding-top: 70px;
+}
+
+.heroHeader a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 22px;
+    font-weight: bolder;
+    padding: 15px 40px;
+    background-color: #ee454b;
+    border-radius: 10px;
+}
+
+#donation .firstRow {
+    text-align: center;
+    padding-top: 50px;
+}
+#donation .firstRow p {
+    font-size: 25px;
+}
+
+#donation .firstRow h1 {
+    font-size: 50px;
+}
+
+#donation .secondRow {
+    display: flex;
+    color: #ee454b;
+    padding-left: 450px;
+    padding-top: 70px;
+}
+
+#donation .secondRow h1 {
+    align-items: center;
+    padding: 4%;
+}
+
+.donationTk {
+    color: #ee454b;
+    background-color: #f0dde4;
+    border-style: solid;
+    border-color: #f70763;
+}
+
+#donation .thirdRow input {
+    padding: 50px 570px;
+    font-size: 30px;
+    border-style: solid;
+    border-top: #ffffff;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+
+#donation .btn a {
+    text-decoration: none;
+    padding: 15px 40px;
+    font-size: 22px;
+    font-weight: bolder;
+    color:aqua;
+    background-color: #ee454b;
+    margin-left: 850px;
+    border-radius: 10px;
+}
+
+#donationPlan .firstRow {
+    margin-top: 120px;
+    text-align: center;
+}
+
+#donationPlan .firstRow h1 {
+    font-size: 50px;
+}
+
+#donationPlan .firstRow p {
+    font-size: 25px;
+}
+
+#donationPlan .secondRow {
+    display: flex;
+    margin-top: 70px;
+}
+
+.secondRow .firstCard {
+    margin-left: 15%;
+    padding: 3%;
+    background-color: rgb(248, 246, 222);
+    border-radius: 10px;
+}
+
+.secondRow .secondCard {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 3%;
+    background-color: rgb(223, 234, 248);
+    border-radius: 10px;
+}
+
+.secondRow .thirdCard {
+    margin-right: 15%;
+    padding: 3%;
+    background-color: rgb(235, 222, 248);
+    border-radius: 10px;
+}
+.article  {
+    display:flex;
+    margin-top: 150px;
+    border: 0%;
+}
+.article h1 {
+    font-size: 50px;
+}
+.article p {
+    font-size: 25px;
+}
+.article a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 22px;
+    font-weight: bolder;
+    padding: 15px 40px;
+    background-color: #ee454b;
+    border-radius: 10px;
+}
+.halfWidth {
+    padding-left: 10%;
+    padding-right: 3%;
+}
+#floodImg{
+    display: block;
+    height: 500px;
+    width: 700px;
+}
+
+#submit .firstRow {
+    text-align: center;
+    padding-top: 150px;
+}
+#submit h1 {
+    font-size: 50px;
+}
+#submit p {
+    font-size: 20px;
+}
+#submit .secondRow {
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    background-color: #f1e7b6;
+    border-radius: 5px;
+}
+
+#submit .secondRow input {
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#submit .email {
+    margin-left: 35%;
+    border-style: none;
+}
+
+#submit .emailBtn {
+    background-color: #928a8d;
+    border-style: none;
+}
+
+footer {
+    background-color: black;
+}
+
+footer h3 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f70763;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer p {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
